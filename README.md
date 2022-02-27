@@ -1,8 +1,8 @@
 # Hi there, I'm Wael - aka [WMOH][youtube] 👋 
 
 
-[![site](https://img.shields.io/website?label=waelmohamed.me&style=for-the-badge&url=https%3A%2F%2Fwaelmohamed.com)](https://WMOH.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/WMOH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWMOH&screen_name=WMOH)
+[![site](https://img.shields.io/website?label=waelmohamed.me&style=for-the-badge&url=https://waelmohamed.me)](https://WMOH.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/WMOH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWaelMohElSaid&screen_name=WaelMohElSaid)
 
 
 
