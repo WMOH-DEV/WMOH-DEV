@@ -74,7 +74,7 @@
 
 [website]: https://codeSTACKr.com
 [site]: https://waelmohamed.me
-[facebook]: ttps://facebook.com/waelmohelsaid
+[facebook]: https://facebook.com/waelmohelsaid
 [twitter]: https://twitter.com/waelmohelsaid
 [linkedin]: https://linkedin.com/in/waelmohelsaid
 [github]: https://github.com/WMOH-DEV
